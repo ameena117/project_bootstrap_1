@@ -1,0 +1,30 @@
+body{
+    font-family: cursive;
+    font-size: 18px;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.fa, .fas, .far, .fal, .fad, .fab{
+color: rgb(255, 255, 255);
+margin-left: 2px;
+}
+a{
+    color: #fff;
+}
+#op{
+    margin-left: 12px;
+    font-size: 25px;
+}
+#number{
+    color: #6c757d;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+

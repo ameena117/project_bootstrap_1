@@ -1,0 +1,36 @@
+body{
+    font-family: cursive;
+    font-size: 18px;
+}
+.fa, .fas, .far, .fal, .fad, .fab{
+color: rgb(255, 255, 255);
+margin-left: 2px;
+}
+.title{
+    width: 90%;
+    margin: auto;
+    left: 0;    
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 0;    
+    text-align: center;
+}
+a{
+    color: #fff;
+}
+#op{
+    margin-left: 12px;
+    font-size: 25px;
+}
+.card{
+    background-color: #6c757d;
+    color: #fff;
+    width: 50%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 0;
+}
